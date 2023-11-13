@@ -1,0 +1,43 @@
+body {
+	color: red;
+}
+.subjectHeader{
+	font-family: sans-serif;
+	color: darkolivegreen;
+}
+th {
+	color: blueviolet;
+	text-align: center;
+	text-emphasis: bold;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black; 
+}
+td {
+	border-style: solid;
+	border-color: darkolivegreen;
+	border-width: 1px;
+}
+li{
+	list-style: square ;
+}
+a:hover {
+	color: darkorange;
+	text-decoration: none;
+}
+blockquote {
+	background: black;
+	color: lightsteelblue;
+
+}
+  ul  {
+
+background-image: url(https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg); 
+background-repeat: no-repeat;
+background-size: 100px ;
+opacity: .7;
+}
+#activity{
+	list-style: none;
+		
+}
